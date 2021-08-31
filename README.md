@@ -10,7 +10,7 @@ IndexedDB, Service Worker and manifest.json for an existing budget tracking appl
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Deployed-App](#deployed)
+- [Deployed-App](#deployed-app)
 - [Credits](#credits)
 - [Screenshot](#screenshot)
 - [License](#license)
