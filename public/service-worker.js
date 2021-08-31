@@ -4,12 +4,9 @@ const CACHE_NAME = APP_PREFIX + VERSION;
 
 const FILES_TO_CACHE = [
   "./index.html",
-  "./index.html",
   "./css/style.css",
   "./js/index.js",
-  "./js/idb.js",
-  "./dist/tickets.bundle.js",
-  "./dist/schedule.bundle.js"
+  "./js/idb.js"
 ];
 
 self.addEventListener('fetch', function (e) {
